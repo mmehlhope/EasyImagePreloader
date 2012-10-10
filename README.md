@@ -3,6 +3,9 @@
 
 The Easy Image Preloader is a very simple way to ensure the images within a container are loaded in a user friendly and aesthetically pleasing manner. Being a jQuery plugin, it does have a hard requirement of jQuery, obviously.
 
+## Example
+You can view an example page [here](http://mmehlhope.github.com/EasyImagePreloader/) which uses the optional `useFadeDelay:true` argument to create the staggered effect.
+
 ## Usage
 To use the plugin, you will run the `$.easyImagePreloader();` method on the parent container for the images you wish to load. If you want ALL images to be loaded (not generally recommended), you can use the `body` or your `'#wrapper'` equivalent.
 
