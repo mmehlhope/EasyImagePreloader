@@ -1,0 +1,21 @@
+body {
+	padding:20px 0;
+	background:#ddd;
+}
+#wrapper {
+	width:1280px;
+	margin:0 auto;
+	overflow: auto;
+}
+ul.gallery {
+	list-style-type: none;
+	width:100%;
+	overflow:auto;
+}
+	ul.gallery li {
+		float:left;
+		margin:0 20px 20px 0;
+	}
+	ul.gallery li.last {
+		margin:0 0 20px 0;
+	}
