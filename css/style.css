@@ -1,4 +1,5 @@
 body {
+	font-size:62.5%;
 	padding:20px 0;
 	background:#ddd;
 }
@@ -6,6 +7,11 @@ body {
 	width:1280px;
 	margin:0 auto;
 	overflow: auto;
+}
+h1 {
+	font-family: Arial, sans-serif;
+	font-size:3em;
+	line-height: 2;
 }
 ul.gallery {
 	list-style-type: none;
