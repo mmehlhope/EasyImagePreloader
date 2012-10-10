@@ -17,8 +17,8 @@ To use the plugin, you will run the `$.easyImagePreloader();` method on the pare
 ## Options
 As always, to use any of the following methods simply pass them as an argument when using the plugin.
 `$('.gallery').easyImagePreloader({
-  method: value,
-  method: value
+  option: value,
+  option: value
 });`
 
 #### useFadeDelay - *Default, False.* 
