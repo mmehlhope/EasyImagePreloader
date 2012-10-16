@@ -80,7 +80,7 @@
           var $this = $(this),
             preloaderCSS = {
               background: "#fff url(http://cdn.mehlhope.net/images/easyImagePreloader/loadingAnimation.gif) center center no-repeat",
-              display: "block",
+              display: "block"
             };
 
           if ( $this.parent(settings.preload_parent).length == 0 ) {
