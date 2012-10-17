@@ -79,7 +79,7 @@
 
           var $this = $(this),
             preloaderCSS = {
-              background: "#fff url(http://cdn.mehlhope.net/images/easyImagePreloader/loadingAnimation.gif) center center no-repeat",
+              background: "#fff url(http://cdn.mehlhope.net/easyImagePreloader/loadingAnimation.gif) center center no-repeat",
               display: "block"
             };
 
